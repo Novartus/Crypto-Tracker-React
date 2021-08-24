@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Crypto-Tracker-React/static/css/main.0c4a419c.chunk.css",
+    "main.js": "/Crypto-Tracker-React/static/js/main.8dd3357d.chunk.js",
+    "main.js.map": "/Crypto-Tracker-React/static/js/main.8dd3357d.chunk.js.map",
+    "runtime-main.js": "/Crypto-Tracker-React/static/js/runtime-main.b3bbd93b.js",
+    "runtime-main.js.map": "/Crypto-Tracker-React/static/js/runtime-main.b3bbd93b.js.map",
+    "static/js/2.a0cfb8b6.chunk.js": "/Crypto-Tracker-React/static/js/2.a0cfb8b6.chunk.js",
+    "static/js/2.a0cfb8b6.chunk.js.map": "/Crypto-Tracker-React/static/js/2.a0cfb8b6.chunk.js.map",
+    "index.html": "/Crypto-Tracker-React/index.html",
+    "precache-manifest.5e732fef7dff8917b05c63f9da31e191.js": "/Crypto-Tracker-React/precache-manifest.5e732fef7dff8917b05c63f9da31e191.js",
+    "service-worker.js": "/Crypto-Tracker-React/service-worker.js",
+    "static/css/main.0c4a419c.chunk.css.map": "/Crypto-Tracker-React/static/css/main.0c4a419c.chunk.css.map",
+    "static/js/2.a0cfb8b6.chunk.js.LICENSE.txt": "/Crypto-Tracker-React/static/js/2.a0cfb8b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3bbd93b.js",
+    "static/js/2.a0cfb8b6.chunk.js",
+    "static/css/main.0c4a419c.chunk.css",
+    "static/js/main.8dd3357d.chunk.js"
+  ]
+}
